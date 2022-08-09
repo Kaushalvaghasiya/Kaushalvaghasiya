@@ -11,17 +11,17 @@
 
 <h3 align="left">Skills</h3>
 
-<a href="#" target="blank"><img align="center" src="https://github.com/devarshukani/devarshukani/blob/master/c%2B%2B.svg" alt="devarshukani"/></a>
-<a href="#" target="blank"><img align="center" src="https://github.com/devarshukani/devarshukani/blob/master/java.svg" alt="devarshukani"/></a>
-<a href="#" target="blank"><img align="center" src="https://github.com/devarshukani/devarshukani/blob/master/python.svg" alt="devarshukani"/></a>
-<a href="#" target="blank"><img align="center" src="https://github.com/devarshukani/devarshukani/blob/master/android.svg" alt="devarshukani"/></a>
-<a href="#" target="blank"><img align="center" src="https://github.com/devarshukani/devarshukani/blob/master/database.svg" alt="devarshukani"/></a>
+<a href="#" target="blank"><img align="center" src="https://github.com/Kaushalvaghasiya/Profile/blob/main/c%2B%2B.svg" alt="devarshukani"/></a>
+<a href="#" target="blank"><img align="center" src="https://github.com/Kaushalvaghasiya/Profile/blob/main/java.svg" alt="devarshukani"/></a>
+<a href="#" target="blank"><img align="center" src="https://github.com/Kaushalvaghasiya/Profile/blob/main/python.svg" alt="devarshukani"/></a>
+<a href="#" target="blank"><img align="center" src="https://github.com/Kaushalvaghasiya/Profile/blob/main/android.svg" alt="devarshukani"/></a>
+<a href="#" target="blank"><img align="center" src="https://github.com/Kaushalvaghasiya/Profile/blob/main/database.svg" alt="devarshukani"/></a>
 
 <h3 align="left">Contact</h3>
 
-<a href="mailto:me.devarshukani@gmail.com" target="_blank"><img align="center" src="https://github.com/devarshukani/devarshukani/blob/master/mail.svg" alt="devarshukani"/></a>
-<a href="https://linkedin.com/in/devarshukani" target="_blank"><img align="center" src="https://github.com/devarshukani/devarshukani/blob/master/linkedin.svg" alt="devarshukani"/></a>
-<a href="https://twitter.com/devarshukani" target="_blank"><img align="center" src="https://github.com/devarshukani/devarshukani/blob/master/twitter.svg" alt="devarshukani"/></a>
+<a href="mailto:me.devarshukani@gmail.com" target="_blank"><img align="center" src="https://github.com/Kaushalvaghasiya/Profile/blob/main/mail.svg" alt="devarshukani"/></a>
+<a href="https://linkedin.com/in/devarshukani" target="_blank"><img align="center" src="https://github.com/Kaushalvaghasiya/Profile/blob/main/linkedin.svg" alt="devarshukani"/></a>
+<a href="https://twitter.com/devarshukani" target="_blank"><img align="center" src="https://github.com/Kaushalvaghasiya/Profile/blob/main/twitter.svg" alt="devarshukani"/></a>
 
 <br />
 
