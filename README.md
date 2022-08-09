@@ -7,7 +7,7 @@
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=devarshukani&repo=MyLib_Android&theme=github_dark&show_icons=true)](https://github.com/devarshukani/MyLib_Android)  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=devarshukani&repo=MyLib_Admin_Panel&theme=github_dark&show_icons=true)](https://github.com/devarshukani/MyLib_Admin_Panel)  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=devarshukani&repo=MyLib_Admin_Panel&theme=github_dark&show_icons=true)](https://github.com/devarshukani/MyLib_Admin_Panel) -->
 
-<a href="https://devarshukani.github.io" target="_blank"><img align="center" src="https://github.com/kaushalvaghasiya/profile/portfolio.svg" alt="kaushalvaghasiya"/></a>
+<a href="https://devarshukani.github.io" target="_blank"><img align="center" src="https://github.com/kaushalvaghasiya/profile/blob/master/portfolio.svg" alt="kaushalvaghasiya"/></a>
 
 <h3 align="left">Skills</h3>
 
