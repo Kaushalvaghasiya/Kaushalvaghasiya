@@ -5,9 +5,9 @@
 <!-- 
 <h3 align="left">Projects</h3>
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=devarshukani&repo=MyLib_Android&theme=github_dark&show_icons=true)](https://github.com/devarshukani/MyLib_Android)  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=devarshukani&repo=MyLib_Admin_Panel&theme=github_dark&show_icons=true)](https://github.com/devarshukani/MyLib_Admin_Panel)  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=devarshukani&repo=MyLib_Admin_Panel&theme=github_dark&show_icons=true)](https://github.com/devarshukani/MyLib_Admin_Panel) -->
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kaushalvaghasiya&repo=ShareLog&theme=github_dark&show_icons=true)](https://github.com/Kaushalvaghasiya/ShareLog)  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kaushalvaghasiya&repo=Adroit-IBS&theme=github_dark&show_icons=true)](https://github.com/Kaushalvaghasiya/Adroit-IBS)  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kaushalvaghasiya&repo=AtulTechnocast&theme=github_dark&show_icons=true)](https://github.com/Kaushalvaghasiya/AtulTechnocast) -->
 
-<a href="https://devarshukani.github.io" target="_blank"><img align="center" src="https://github.com/Kaushalvaghasiya/Profile/blob/main/portfolio.svg" alt="kaushalvaghasiya"/></a>
+<a href="https://kaushalvaghasiya.github.io" target="_blank"><img align="center" src="https://github.com/Kaushalvaghasiya/Profile/blob/main/portfolio.svg" alt="kaushalvaghasiya"/></a>
 
 <h3 align="left">Skills</h3>
 
@@ -19,9 +19,9 @@
 
 <h3 align="left">Contact</h3>
 
-<a href="mailto:me.devarshukani@gmail.com" target="_blank"><img align="center" src="https://github.com/Kaushalvaghasiya/Profile/blob/main/mail.svg" alt="devarshukani"/></a>
-<a href="https://linkedin.com/in/devarshukani" target="_blank"><img align="center" src="https://github.com/Kaushalvaghasiya/Profile/blob/main/linkedin.svg" alt="devarshukani"/></a>
-<a href="https://twitter.com/devarshukani" target="_blank"><img align="center" src="https://github.com/Kaushalvaghasiya/Profile/blob/main/twitter.svg" alt="devarshukani"/></a>
+<a href="mailto:kaushal.vaghasiya.2408@gmail.com" target="_blank"><img align="center" src="https://github.com/Kaushalvaghasiya/Profile/blob/main/mail.svg" alt="devarshukani"/></a>
+<a href="https://linkedin.com/in/kaushal-vaghasiya" target="_blank"><img align="center" src="https://github.com/Kaushalvaghasiya/Profile/blob/main/linkedin.svg" alt="devarshukani"/></a>
+<a href="https://twitter.com/kaushal_v" target="_blank"><img align="center" src="https://github.com/Kaushalvaghasiya/Profile/blob/main/twitter.svg" alt="devarshukani"/></a>
 
 <br />
 
