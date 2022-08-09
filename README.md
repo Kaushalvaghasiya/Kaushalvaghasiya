@@ -11,17 +11,17 @@
 
 <h3 align="left">Skills</h3>
 
-<a href="#" target="blank"><img align="center" src="https://github.com/Kaushalvaghasiya/Profile/blob/main/c%2B%2B.svg" alt="devarshukani"/></a>
-<a href="#" target="blank"><img align="center" src="https://github.com/Kaushalvaghasiya/Profile/blob/main/java.svg" alt="devarshukani"/></a>
-<a href="#" target="blank"><img align="center" src="https://github.com/Kaushalvaghasiya/Profile/blob/main/python.svg" alt="devarshukani"/></a>
-<a href="#" target="blank"><img align="center" src="https://github.com/Kaushalvaghasiya/Profile/blob/main/android.svg" alt="devarshukani"/></a>
-<a href="#" target="blank"><img align="center" src="https://github.com/Kaushalvaghasiya/Profile/blob/main/database.svg" alt="devarshukani"/></a>
+<a href="#" target="blank"><img align="center" src="https://github.com/Kaushalvaghasiya/Profile/blob/main/c%2B%2B.svg" alt="kaushalvaghasiya"/></a>
+<a href="#" target="blank"><img align="center" src="https://github.com/Kaushalvaghasiya/Profile/blob/main/java.svg" alt="kaushalvaghasiya"/></a>
+<a href="#" target="blank"><img align="center" src="https://github.com/Kaushalvaghasiya/Profile/blob/main/python.svg" alt="kaushalvaghasiya"/></a>
+<a href="#" target="blank"><img align="center" src="https://github.com/Kaushalvaghasiya/Profile/blob/main/android.svg" alt="kaushalvaghasiya"/></a>
+<a href="#" target="blank"><img align="center" src="https://github.com/Kaushalvaghasiya/Profile/blob/main/database.svg" alt="kaushalvaghasiya"/></a>
 
 <h3 align="left">Contact</h3>
 
-<a href="mailto:kaushal.vaghasiya.2408@gmail.com" target="_blank"><img align="center" src="https://github.com/Kaushalvaghasiya/Profile/blob/main/mail.svg" alt="devarshukani"/></a>
-<a href="https://linkedin.com/in/kaushal-vaghasiya" target="_blank"><img align="center" src="https://github.com/Kaushalvaghasiya/Profile/blob/main/linkedin.svg" alt="devarshukani"/></a>
-<a href="https://twitter.com/kaushal_v" target="_blank"><img align="center" src="https://github.com/Kaushalvaghasiya/Profile/blob/main/twitter.svg" alt="devarshukani"/></a>
+<a href="mailto:kaushal.vaghasiya.2408@gmail.com" target="_blank"><img align="center" src="https://github.com/Kaushalvaghasiya/Profile/blob/main/mail.svg" alt="kaushalvaghasiya"/></a>
+<a href="https://linkedin.com/in/kaushal-vaghasiya" target="_blank"><img align="center" src="https://github.com/Kaushalvaghasiya/Profile/blob/main/linkedin.svg" alt="kaushalvaghasiya"/></a>
+<a href="https://twitter.com/kaushal_v_" target="_blank"><img align="center" src="https://github.com/Kaushalvaghasiya/Profile/blob/main/twitter.svg" alt="kaushalvaghasiya"/></a>
 
 <br />
 
